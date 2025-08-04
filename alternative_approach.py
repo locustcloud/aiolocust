@@ -1,3 +1,5 @@
+# This is actually a different attempt, different from the one in aiolocust
+# This is set up as a locustfile
 from locust import User, events
 
 
